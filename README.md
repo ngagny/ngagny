@@ -1,15 +1,15 @@
-👋 Hello, I'm Ngagny Kiary Derick Agreeba
-I'm a web developer based in Africa, driven by a passion for building clean, interactive, and user-centered websites. I believe great design meets purpose, and I bring that philosophy into every project I work on.
+🌍 Hello, I'm Ngagny Kiary Derick Agreeba
+I build for the web — not just code, but experiences that stick. Born with a curiosity for how digital spaces connect people, I've turned that into a lifelong craft.
 
-🌍 I split my time between Nigeria and Cameroon, constantly seeking fresh perspectives and new professional adventures across borders.
+My work has taken me across continents — from the bustling streets of Lagos to the calm shores of Douala, from the vibrant chaos of Nairobi to the quiet, tech-savvy corners of Kigali. I've even found myself lost in the rhythm of Accra and inspired by the innovation brewing in Cape Town. Every city leaves a mark on how I design, think, and build.
 
-💻 My expertise lies in code refinement, system maintenance, and making sure digital environments run smoothly and securely. Over time, I've launched multiple live websites — and I'm always exploring ways to expand their reach and impact.
+💻 I specialize in front-end development, system maintenance, and breathing new life into outdated code. I've launched several websites — some for businesses, others just for the thrill of creating. Right now, I'm focused on growing their reach and turning visitors into communities.
 
-🖥️ Beyond development, I offer hands-on training in Bitcoin mining and provide website cloning services for educational or backup purposes.
+🖥️ Outside the usual dev work, I run a small side hustle: teaching Bitcoin mining to curious minds, and offering website cloning services for learning and backup purposes.
 
-🧠 I'm also skilled in Kali Linux, with a strong focus on ethical practices, system analysis, and activity monitoring.
+🔐 I’m also deeply familiar with Kali Linux — not for the hype, but for the control it gives me over systems, networks, and security analysis. I can track digital footprints, monitor activity, and make sure things stay where they should be.
 
-📬 Let’s stay connected:
+📬 I’m always open to a conversation — whether it's a project, an idea, or just a story from your side of the world.
 
 Email: Ngagnykiaryderick@gmail.com
 
