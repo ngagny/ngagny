@@ -1,12 +1,16 @@
-Hi, I’m Ngagny Kiary Derick Agreeba👋
-🌍 I’m a webpage developer based in Africa, with a passion for creating engaging online experiences.
-✈️ Sometimes, I travel between Nigeria and Cameroon to explore new opportunities.
-🎂 Born on October 10, 2001, I’m currently 23 years old.
-💻 I specialize in editing code and performing system maintenance.
-🌐 I have several websites online and am eager to attract more visitors.
-👨‍👩‍👦‍👦 I don’t have any kids (yet!).
-🖥️ I can also clone websites and offer a Bitcoin mining course for those interested.
-📧 Reach me at: Ngagnykiaryderick@gmail.com
-☎️ Connect on Telegram: t.me/ngagny
-💡 Proficient in Kali Linux coding.
-🔍 Able to track activities effectively.
+👋 Hello, I'm Ngagny Kiary Derick Agreeba
+I'm a web developer based in Africa, driven by a passion for building clean, interactive, and user-centered websites. I believe great design meets purpose, and I bring that philosophy into every project I work on.
+
+🌍 I split my time between Nigeria and Cameroon, constantly seeking fresh perspectives and new professional adventures across borders.
+
+💻 My expertise lies in code refinement, system maintenance, and making sure digital environments run smoothly and securely. Over time, I've launched multiple live websites — and I'm always exploring ways to expand their reach and impact.
+
+🖥️ Beyond development, I offer hands-on training in Bitcoin mining and provide website cloning services for educational or backup purposes.
+
+🧠 I'm also skilled in Kali Linux, with a strong focus on ethical practices, system analysis, and activity monitoring.
+
+📬 Let’s stay connected:
+
+Email: Ngagnykiaryderick@gmail.com
+
+Telegram: t.me/ngagny
